@@ -1,1 +1,1 @@
-export default class DomListener {}
+export class DomListener {}
