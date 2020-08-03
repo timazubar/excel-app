@@ -1,0 +1,30 @@
+{
+  "name": "excel-app",
+  "version": "1.0.0",
+  "description": "Excel App written in pure JavaScript",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timazubar/excel-app.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Tymofii Zubar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timazubar/excel-app/issues"
+  },
+  "homepage": "https://github.com/timazubar/excel-app#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
